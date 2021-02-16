@@ -1,0 +1,28 @@
+.row {
+    display: flex;
+  }
+  
+.race_progress {
+    flex: 50%;
+    padding: 5px;
+}
+.race_stats{
+    flex: 50%;
+    padding: 5px;
+}
+.age_progress {
+    flex: 50%;
+    padding: 5px;
+}
+.age_stats{
+    flex: 50%;
+    padding: 5px;
+}
+.gender_progress {
+    flex: 50%;
+    padding: 5px;
+}
+.gender_stats{
+    flex: 50%;
+    padding: 5px;
+}
