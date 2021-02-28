@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  "Model"
-date:   2021-02-27 13:25:00 -0800
-categories: jekyll update
+layout: page
+title: Model
+permalink: /model/
 ---
 
 <html lang="en">
@@ -10,7 +9,7 @@ categories: jekyll update
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="../style/style.css" rel="stylesheet" /> <!-- ../style/style.css-->
+    <link href="./style/style.css" rel="stylesheet" /> 
     <title>Document</title>
 </head>
 
@@ -41,38 +40,38 @@ categories: jekyll update
         <h4><b>Race Model</b>(7 classes with 66% accuracy)</h4>
         <div class="race_row">
             <div class="race_progress">
-                <img src="../img/race/acc_curve.png" style="width:100%"> <!--./img/race/acc_curve.png-->
+                <img src="./img/race/acc_curve.png" style="width:100%"> 
             </div>
             <div class="race_progress">
-                <img src="https://github.com/michael4706/XAI_Website/blob/master/img/race/loss_curve.png" style="width:100%"> <!--../img/race/loss_curve.png-->
+                <img src="./img/race/loss_curve.png" style="width:100%"> 
             </div>
         </div>
         <div class = "race_acc">
-                <img src="https://github.com/michael4706/XAI_Website/blob/master/img/race/accuracy_barplot.png" style="width:70%"> <!--../img/race/accuracy_barplot.png-->
+                <img src="./img/race/accuracy_barplot.png" style="width:70%"> 
         </div>
         <h4><b>Age Model</b>(9 classes with 55% accuracy)</h4>
         <div class = "age_row">
                 <div class="age_progress">
-                    <img src="https://github.com/michael4706/XAI_Website/blob/master/img/age/acc_curve.png" style="width:100%"> <!--../img/age/acc_curve.png-->
+                    <img src="./img/age/acc_curve.png" style="width:100%"> 
                 </div>
                 <div class="age_progress">
-                    <img src="https://github.com/michael4706/XAI_Website/blob/master/img/age/loss_curve.png" style="width:100%"> <!--../img/age/loss_curve.png-->
+                    <img src="./img/age/loss_curve.png" style="width:100%"> 
                 </div>
         </div>
         <div class = "age_acc">
-                <img src="https://github.com/michael4706/XAI_Website/blob/master/img/age/accuracy_barplot.png" style="width:70%"> <!--../img/age/accuracy_barplot.png-->
+                <img src="./img/age/accuracy_barplot.png" style="width:70%"> 
         </div>
         <h4><b>Gender Model</b>(2 classes with 91% accuracy)</h4>
         <div class = "gender_row">
             <div class="Gender_progress">
-                <img src="https://github.com/michael4706/XAI_Website/blob/master/img/gender/acc_curve.png" style="width:100%"> <!--../img/gender/acc_curve.png-->
+                <img src="./img/gender/acc_curve.png" style="width:100%"> 
             </div>
             <div class="Gender_progress">
-                <img src="https://github.com/michael4706/XAI_Website/blob/master/img/gender/loss_curve.png" style="width:100%"> <!--../img/gender/loss_curve.png-->
+                <img src="./img/gender/loss_curve.png" style="width:100%"> 
             </div>
         </div>
         <div class = "gender_acc">
-                <img src="https://github.com/michael4706/XAI_Website/blob/master/img/gender/accuracy_barplot.png" style="width:70%"> <!--../img/gender/accuracy_barplot.png-->
+                <img src="./img/gender/accuracy_barplot.png" style="width:70%">
         </div>
     </section>
 </body>
