@@ -49,7 +49,7 @@ layout: home
             100000+ images of faces from an equally distributed pool of seven race categories, two genders, and eight age groups. In addition to being uniquely comprehensive and applicable to our project, the size of this dataset allows us to create subsets of the data in order to display biased training sets. The biased data was generated based on the actual US population as recorded in the 2019 US Census dataset.
         </p>
         <div class ="sample">
-            <img src = "/img/dataset/sample.png" style = "width:100%">
+            <img src = "./img/dataset/sample.png" style = "width:100%">
         </div>
         <br/>
         <section class = "unbiased_db">
@@ -59,23 +59,22 @@ layout: home
             </p>
             <div class="distribution_unbiased">
                 <div class = pic_unb>
-                    <img src="/img/dataset/race_alt.png" style="width:100%">
+                    <img src="./img/dataset/race_alt.png" style="width:100%">
                 </div>
                 <div class = pic_unb>
-                    <img src="/img/dataset/gender_alt.png" style="width:100%">
+                    <img src="./img/dataset/gender_alt.png" style="width:100%">
                 </div>
             </div>
             <div class ="distribution_unb">
-                <img src = "/img/dataset/age_alt.png" style = "width:60%">
+                <img src = "./img/dataset/age_alt.png" style = "width:60%">
             </div>
         </section>
         <br/>
         <section class = "biased_db">
             <h4><b>Biased Dataset Distribution</b></h4>
             <div class="distribution_biased">
-                <img src="/img/dataset/race_biased.png" style="width:70%">
+                <img src="./img/dataset/race_biased.png" style="width:70%">
             </div>
-
         </section>
     </section>
     <section class = XAI_algo>
@@ -116,7 +115,7 @@ layout: home
                 <b>Here is the visual way to summarize the steps of integrated gradient:</b>
             </p>
             <div class = "ig_img">
-                <img src="/img/ig/ig.png" style="width:100%">
+                <img src="./img/ig/ig.png" style="width:100%">
             </div>
             <br/>
             <p>
