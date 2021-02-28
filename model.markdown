@@ -39,7 +39,7 @@ permalink: /model/
         <h4><b>Race Model</b>(7 classes with 66% accuracy)</h4>
         <div class="race_row">
             <div class="race_progress">
-                <img src="./img/race/acc_curve.png" style="width:100%"> 
+                <img src="https://michael4706.github.io/XAI_Website/img/race/acc_curve.png" style="width:100%"> 
             </div>
             <div class="race_progress">
                 <img src="./img/race/loss_curve.png" style="width:100%"> 
