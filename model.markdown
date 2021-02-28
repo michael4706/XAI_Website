@@ -42,35 +42,35 @@ permalink: /model/
                 <img src="https://michael4706.github.io/XAI_Website/img/race/acc_curve.png" style="width:100%"> 
             </div>
             <div class="race_progress">
-                <img src="./img/race/loss_curve.png" style="width:100%"> 
+                <img src="https://michael4706.github.io/XAI_Website/img/race/loss_curve.png" style="width:100%"> <!--./img/race/loss_curve.png-->
             </div>
         </div>
         <div class = "race_acc">
-                <img src="./img/race/accuracy_barplot.png" style="width:70%"> 
+                <img src="https://michael4706.github.io/XAI_Website/img/race/accuracy_barplot.png" style="width:70%"> <!--./img/race/accuracy_barplot.png-->
         </div>
         <h4><b>Age Model</b>(9 classes with 55% accuracy)</h4>
         <div class = "age_row">
                 <div class="age_progress">
-                    <img src="./img/age/acc_curve.png" style="width:100%"> 
+                    <img src="https://michael4706.github.io/XAI_Website/img/age/acc_curve.png" style="width:100%"> <!--./img/age/acc_curve.png-->
                 </div>
                 <div class="age_progress">
-                    <img src="./img/age/loss_curve.png" style="width:100%"> 
+                    <img src="https://michael4706.github.io/XAI_Website/img/age/loss_curve.png" style="width:100%"> <!--./img/age/loss_curve.png-->
                 </div>
         </div>
         <div class = "age_acc">
-                <img src="./img/age/accuracy_barplot.png" style="width:70%"> 
+                <img src="https://michael4706.github.io/XAI_Website/img/age/accuracy_barplot.png" style="width:70%"> <!--./img/age/accuracy_barplot.png-->
         </div>
         <h4><b>Gender Model</b>(2 classes with 91% accuracy)</h4>
         <div class = "gender_row">
             <div class="Gender_progress">
-                <img src="./img/gender/acc_curve.png" style="width:100%"> 
+                <img src="https://michael4706.github.io/XAI_Website/img/gender/acc_curve.png" style="width:100%"> <!--./img/gender/acc_curve.png-->
             </div>
             <div class="Gender_progress">
-                <img src="./img/gender/loss_curve.png" style="width:100%"> 
+                <img src="https://michael4706.github.io/XAI_Website/img/gender/loss_curve.png" style="width:100%"> <!--./img/gender/loss_curve.png-->
             </div>
         </div>
         <div class = "gender_acc">
-                <img src="./img/gender/accuracy_barplot.png" style="width:70%">
+                <img src="https://michael4706.github.io/XAI_Website/img/gender/accuracy_barplot.png" style="width:70%"> <!--./img/gender/accuracy_barplot.png-->
         </div>
     </section>
 </body>
