@@ -1,6 +1,21 @@
-.row {
+.race_row {
     display: flex;
   }
+.race_acc {
+    text-align: center;
+}
+.age_row {
+    display: flex;
+  }
+.age_acc {
+    text-align: center;
+}
+.gender_row {
+    display: flex;
+  }
+.gender_acc {
+    text-align: center;
+}
   
 .race_progress {
     flex: 50%;
@@ -25,4 +40,24 @@
 .gender_stats{
     flex: 50%;
     padding: 5px;
+}
+h1{
+    font-size: 0.8cm;
+}
+
+.distribution_unbiased {
+    display: flex;
+  }
+.pic_unb{
+    flex:50%;
+}
+.distribution_unb{
+    text-align: center;
+}
+.distribution_biased {
+    float:left;
+    margin-left: 10%;
+  }
+.ig_img{
+    text-align: center;
 }
