@@ -80,10 +80,7 @@ layout: home
         <h1><b>XAI Algorithms</b></h1>
         <h4><b>Grad-CAM</b></h4>
             <p>
-                &emsp; &emsp; Grad-CAM analyzes the gradients flowing into the final convolutional layer in the neural network and it finds the convolutional layers by searching for 4D outputs over all the network layers. Then, to compute the heatmap visualization, we have to perform a forward pass through the gradient model and get the prediction output from the final convolutional layer. The loss value between the prediction and the specific class/race the model is trying to classify is calculated using a loss function. Then, the guided gradients are computed by multiplying the casted version of the computed gradient values and the convolutional layer output so that the model finds all the positive values and this is multiplied by the gradient of the differentiation calculated using automatic differentiation. Automatic differentiation is the process of computing a value of a function along with its derivative.
-            </p>
-            <p>
-                The mean of the guided gradients results in the weights of the final layer. The weights are helpful in determining the importance of the different feature maps to reach the specific target class. The final linearly combined feature layer is mapped into the final class activation heatmap. Grad-CAM is a generalization of CAM in that it focuses on features that have a positive influence on the predicted class and is therefore able to depict localization on the heatmaps. This can be achieved by applying the ReLU function on the class activation map. This entire process can be visualized by the figure below.
+                put comtent here
             </p>
             <h4><b>Integrated-Gradient</b></h4>
             <p>
