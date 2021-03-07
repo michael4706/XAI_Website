@@ -4,6 +4,12 @@
 .race_acc {
     text-align: center;
 }
+.biased_race_row {
+    display: flex;
+  }
+.biased_race_acc {
+    text-align: center;
+}
 .age_row {
     display: flex;
   }
@@ -22,6 +28,10 @@
     padding: 5px;
 }
 .race_stats{
+    flex: 50%;
+    padding: 5px;
+}
+.biaed_race_progress {
     flex: 50%;
     padding: 5px;
 }
@@ -60,4 +70,9 @@ h1{
   }
 .ig_img{
     text-align: center;
+}
+.result_pic{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
 }

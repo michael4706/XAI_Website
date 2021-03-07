@@ -18,16 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: XAI Racial Classification
-email: your-email@example.com
+title: Demystifying ML Facial Analysis
+email: t6hung@ucsd.edu, nml015@ucsd.edu, ssarvepa@ucsd.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a website that introduces the application of Explainable AI on Racial Classification
+  with Convolutional Neural Network. We focused on Grad-CAM and Integrated-Gradient algorithms.
+  Hope you enjoy reading it!
 baseurl: "XAI_Website" # the subpath of your site, e.g. /blog | XAI_Website or ""
 url: "https://michael4706.github.io/XAI_Website/" # the base hostname & protocol for your site, e.g. http://example.com | https://michael4706.github.io/XAI_Website/ or ""
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username: michael4706
 
 # Build settings
 theme:  minima #jekyll-theme-cayman
