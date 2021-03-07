@@ -58,7 +58,7 @@ permalink: /model/
             </div>
         </div>
         <div class = "biased_race_acc">
-                <img src="https://michael4706.github.io/XAI_Website/img/biased_race/accuracy_barplot_Brace.png" style="width:70%"> <!--/img/biased_race/accuracy_barplot_Brace.png-->
+            <img src="https://michael4706.github.io/XAI_Website/img/biased_race/accuracy_barplot_Brace.png" style="width:70%"> <!--/img/biased_race/accuracy_barplot_Brac.png-->
         </div>
         <h4><b>Age Model</b>(9 classes with 55% accuracy)</h4>
         <div class = "age_row">
