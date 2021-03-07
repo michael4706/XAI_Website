@@ -26,13 +26,13 @@ layout: home
         <section class = "overview">
             <h1><b>Overview</b></h1>
             <p>
-                put content here
+ Due to the burgeoning of machine learning and artificial intelligence technology, it may feel as though there are eyes perpetually watching us. It is undeniable that, whether it is through surveillance cameras, phones, or desktops, we are always exposed to being analyzed by merely living our everyday lives. The most frightening part about this phenomenon is that most people are unaware of what is actually being seen and how. As our society begins to yield more responsibility and credibility to image analysis and other machine learning software, it is important to educate the public so that we collective make informed decisions about them. Our interactive web application conducts facial analysis and utilizes explainable artificial intelligence (XAI) to aid in communicating the inner-workings of the machine learning "black box." In addition, we discuss the importance of model fairness, role of XAI in ensuring fairness, and potential discriminatory practices that stem from the imprudent use of machine learning.
             </p>
         </section>
         <section class = "facial_analysis">
         <h1><b>Why Facial Analysis?</b></h1>
         <p>
-            put content here
+Since the primary goal of our project is to educate the public, we wanted to choose a topic that is personal and relatable. Facial analysis fits those requirements well because (1) a person's face reveals the foundation of their lived experiences (especially in diverse countries such as the US) and (2) facial analysis technology has become entrenched in our society. In addition, facial analysis technology is a major ethnical point of contention when discussing image processing. The stakes are especially high in machine learning for facial analysis due to the terrible, discriminatory consequences that may ensue if the technology is not trained judiciously. By conducting facial analysis, we were able to discuss many tangential societal issues, such as privacy and bias in the criminal justice system, in our demonstration of bias model performance.
         </p>
     </section>
     <section class = "XAI">
