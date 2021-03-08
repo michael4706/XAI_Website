@@ -23,8 +23,8 @@ permalink: /webapp/
         <br>
         We then discuss how racial bias in training machine learning models can visually affect output images with examples. Captions are displayed upon hover. Additionally, we display visualizations of the accuracy in relation to race. Lastly, we end with a conclusion.
         <br>
-        <img src="https://github.com/michael4706/XAI_Website/blob/master/Bias.png?raw=true" alt="Bias" width="400" height="310">
-        <img src="https://github.com/michael4706/XAI_Website/blob/master/Conclusion.png?raw=true" alt="Conclusion" width="400" height="310">
+        <img src="https://github.com/michael4706/XAI_Website/blob/master/Bias.png?raw=true" alt="Bias" width="300" height="210">
+        <img src="https://github.com/michael4706/XAI_Website/blob/master/Conclusion.png?raw=true" alt="Conclusion" width="300" height="210">
         <br>
         Due to limitations of using free tier on hosting platforms, we were not able to deploy the backend of our application. To view a static conceptual site (with a default image), you can visit <a href="https://nicole9925.github.io/facial-analysis-frontend/">here</a>. Please visit this <a href = "https://github.com/nicole9925/facial-analysis-webapp">our github repository</a> to locally run our web application with full functionality. The instructions to run are listed in the readme. 
     <br>
