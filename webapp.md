@@ -12,7 +12,7 @@ permalink: /webapp/
         <br>
         <img src="https://github.com/michael4706/XAI_Website/blob/master/getImage.png?raw=true" alt="Home Page" width="420" height="315">
         <br>
-        The web application welcomes the user a homepage that consists of visualizations of our dataset's distribution, background information, and dataset information. Upon submitting an image, you will be brought to the prediction page that lists our predictions for the face's gender, age, and race, along with corresponding graph visualizations of the results.
+        The web application welcomes the user a homepage that consists of visualizations of our dataset's distribution, background information, and dataset information. Upon submitting an image, the user will be brought to the prediction page that lists our predictions for the face's gender, age, and race, along with corresponding graph visualizations of the results.
         <img src="https://github.com/michael4706/XAI_Website/blob/master/Prediction.png?raw=true" alt="Predictions" width="420" height="315">
         <br>
         The next page show three types of visualizations that correspond to the predictions from the previous page. The user may click on the buttons to change the visualizations shown.
