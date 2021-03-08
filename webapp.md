@@ -4,7 +4,7 @@ title: Web Application
 permalink: /webapp/
 ---
 <body>
-    <iframe width="840" height="630" display:"block"
+    <iframe width="840" height="630"
         src="https://www.youtube.com/embed/Ri2yRwkdSS0">
     </iframe>
     <p>
