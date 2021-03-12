@@ -4,6 +4,10 @@ title: Web Application
 permalink: /webapp/
 ---
 <body>
+    <p><b>Static Demo: <a href="https://nicole9925.github.io/facial-analysis-frontend/">LINK</a></b></p>
+    <p><b>Undeployed Web Application with full functionality: <a href = "https://github.com/nicole9925/facial-analysis-webapp">GITHUB REPOSITORY</a></b></p>
+    <br>
+    <br>
     <iframe width="840" height="630"
         src="https://www.youtube.com/embed/Ri2yRwkdSS0">
     </iframe>
